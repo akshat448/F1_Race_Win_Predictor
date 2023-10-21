@@ -36,9 +36,7 @@ In this project, we developed a predictive model to forecast Formula 1 race winn
 
 ## Future Work
 
-The project is still not complete. Further work I wish to do:
-- Exploring more advanced machine learning models such as random forests, KNeighborsClassifier.
-- Fine-tuning hyperparameters to improve model performance.
+The project is still not complete. Further work I wish to do such as exploring more advanced machine learning models such as random forests, KNeighborsClassifier and understanding them.
 
 ## References
 
