@@ -40,7 +40,7 @@ On test dataset(Both standardized and normal test data):
 
 ## Conclusion
 
-In this project, we developed a predictive model to forecast Formula 1 race winners using logistic regression. We performed thorough data analysis, preprocessing, feature engineering, label encoding, and model evaluation. While logistic regression is a simple model, it provided reasonable results for this binary classification task. TensorFlow and random forest classifier provided perfect accuracies  Further improvements can be made by experimenting with more advanced machine learning algorithms and incorporating additional features.
+In this project, we developed a predictive model to forecast Formula 1 race winners using logistic regression. We performed thorough data analysis, preprocessing, feature engineering, label encoding, and model evaluation. While logistic regression is a simple model, it provided reasonable results for this binary classification task. TensorFlow and random forest classifier provided perfect accuracies being more complicated models. Further improvements can be made by incorporating additional features.
 
 ## Future Work
 
